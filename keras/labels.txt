@@ -1,0 +1,3 @@
+0 Pet
+1 No Pet
+2 Nada
