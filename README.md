@@ -133,7 +133,7 @@ La **World Robot Olympiad (WRO)** es una competencia global que inspira a los j�
 
 ---
 
-## 👥 Equipo (Plaza para nombres)
+## 👥 Equipo
 
 * **Alberto Medina** - Desarrollador Principal
 *   **Ing. Daniel Cazorla** - Colaborador
